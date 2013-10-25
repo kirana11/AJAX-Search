@@ -1,0 +1,1024 @@
+Globinmed
+REVIEW PAPER
+
+Music-assisted relaxation to improve sleep quality: meta-analysis
+Gerrit de Niet, Bea Tiemens, Bert Lendemeijer & Giel Hutschemaekers
+Accepted for publication 22 January 2009
+
+Correspondence to G. de Niet:
+e-mail: g.de.niet@degelderseroos.nl
+Gerrit de Niet MSc RN
+Psychiatric Nurse and Researcher
+Gelderse Roos Mental Health Care,
+Institute for Professionalization, Wolfheze,
+The Netherlands
+Bea Tiemens PhD
+Epidemiologist and Senior Researcher
+Gelderse Roos Mental Health Care,
+Institute for Professionalization, Wolfheze,
+The Netherlands
+Bert Lendemeijer PhD
+Senior Researcher
+Faculty of Health, Medicine and Life
+Sciences, University of Maastricht,
+The Netherlands
+Giel Hutschemaekers PhD
+Professor
+Department of Social Sciences,
+University of Nijmegen,
+and Director,
+Gelderse Roos Mental Health Care,
+Institute for Professionalization, Wolfheze,
+The Netherlands
+
+DE NIET G., TIEMENS B., LENDEMEIJER B. & HUTSCHEMAEKERS G. (2009)
+
+Music-assisted relaxation to improve sleep quality: meta-analysis. Journal of
+Advanced Nursing 65(7), 1356–1364
+doi: 10.1111/j.1365-2648.2009.04982.x
+
+Abstract
+Title. Music-assisted relaxation to improve sleep quality: meta-analysis.
+Aim. This paper is a report of a meta-analysis conducted to evaluate the efficacy of
+music-assisted relaxation for sleep quality in adults and elders with sleep complaints
+with or without a co-morbid medical condition.
+Background. Clinical studies have shown that music can influence treatment outcome in a positive and beneficial way. Music holds the promise of counteracting
+psychological presleep arousal and thus improving the preconditions for sleep.
+Data sources. We conducted a search in the Embase (1997 – July 2008), Medline
+(1950 – July 2008), Cochrane (2000 – July 2008), Psychinfo (1987 – July 2008) and
+Cinahl (1982 – July 2008) databases for randomized controlled trials reported in
+English, German, French and Dutch. The outcome measure of interest was sleep
+quality.
+Methods. Data were extracted from the included studies using predefined data
+fields. The researchers independently assessed the quality of the trials using the
+Delphi list. Only studies with a score of 5 points or higher were included. A pooled
+analysis was performed based on a fixed effect model.
+Results. Five randomized controlled trials with six treatment conditions and a total
+of 170 participants in intervention groups and 138 controls met our inclusion
+criteria. Music-assisted relaxation had a moderate effect on the sleep quality of
+patients with sleep complaints (standardized mean difference, À0Æ74; 95% CI:
+À0Æ96, À0Æ46). Subgroup analysis revealed no statistically significant contribution of
+accompanying measures.
+Conclusion. Music-assisted relaxation can be used without intensive investment in
+training and materials and is therefore cheap, easily available and can be used by
+nurses to promote music-assisted relaxation to improve sleep quality.
+Keywords: insomnia, meta-analysis, music, relaxation, sleep complaints, systematic
+review
+
+1356
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+JAN: REVIEW PAPER
+
+Introduction
+Music is one of the most-used self-help strategies to promote
+sleep. Morin et al. (2006a) found that more then a quarter of
+a randomly-selected sample of community-dwelling participants used music to promote their sleep. A survey among
+urban people in Finland (Urponen et al. 1988) also showed
+that music was the second most important factor in promoting sleep. The clinical and systematic use of music as a
+(complementary) treatment in various medical conditions has
+been a subject of study in recent decades.
+Clinical studies show that music can influence human
+emotions and treatment outcome in a positive way. A review
+by Evans (2002) showed that music decreases the level of
+anxiety during normal care delivery. Studies by Chan et al.
+(2006) in patients undergoing a C-clamp procedure after
+percutaneous coronary interventions and Almerud and
+Peterson (2003) in mechanically-ventilated intensive care
+patients showed positive and statistically significant changes
+in physiological variables. Although some researchers report
+statistically significant influences of sedative music on hormonal levels and the immune system, the precise mechanism
+by which music may improve human well-being is still
+unclear.
+Because there is evidence that music has the potential to
+reduce anxiety, it holds the promise for counteracting
+psychological presleep arousal and thus improving the
+preconditions for sleep. Moreover, Johnson (2003) has
+suggested that music can decrease the frustration and dread
+associated with sleep complaints. Therefore, the use of music
+could be beneficial for people with sleep (onset) problems.
+Even in patients with chronic sleep problems, whose frustration about not being able to fall asleep might be a perpetuating factor, music could potentially be beneficial.
+Music might be a valuable contribution to the range of
+non-pharmacological nursing interventions to promote sleep.
+However, only one report about the actual use of music as a
+sleep-promoting nursing intervention was found: GagnerTjellesen et al. (2001) found that nurses working in acute
+inpatient settings reported music as the most often-used
+independent therapeutic nursing intervention to enhance
+sleep.
+Non-pharmacological interventions, in particular cognitive
+behavioural treatment, have been proven to be effective and
+to have resulted in stable therapeutic changes over time
+(Morin et al. 2006b). However, most non-pharmacological
+interventions require a relatively large investment in training.
+The systematic application of music interventions does not
+involve large investments in training or tools. These interventions are ‘relatively inexpensive, readily available,
+
+Music-assisted relaxation to improve sleep quality
+
+portable, and completely subject controlled’ (Mornhinweg
+& Voigner 1995, p 252).
+The growing interest for non-pharmacological interventions has led to reviews evaluating the efficacy of such
+strategies. Examples include reviews of psychological and
+behavioural treatment (Morin et al. 2006b), bright light
+therapy (Montgomery & Dennis 2002a) and physical exercise (Montgomery & Dennis 2002b). However, we could not
+find a review about the efficacy of music as a sleep-promoting
+intervention. A meta-analysis of data from previous research
+findings might provide or enhance the evidence-base of such
+an intervention.
+
+The review
+Aim
+The aim of this meta-analysis was to evaluate the efficacy of
+music-assisted relaxation (MAR) for sleep quality in adults
+and elders with sleep complaints with or without a co-morbid
+medical condition.
+
+Design
+A meta-analysis was conducted using data from five randomized controlled trials. We chose sleep quality as the
+primary outcome measure for the intervention. The reason
+for this choice was primarily practical: sleep quality can be
+assessed without medical competences. This means that
+professionals without medical training, such as nurses, are
+able to assess it. Sleep quality refers to the multi-dimensionally assessed, subjective experience of sleep. It comprises
+quantitative aspects of sleep, such as sleep duration, sleep
+latency, and number of arousals, as well as more purely
+subjective aspects, such as depth or restfulness of sleep
+(Buijsse et al. 1989).
+Subjective measures (assessed by standardized questionnaires) and objective measures (assessed via polysomnografic
+recording or wrist actigraphy) are not necessarily concordant.
+Lazic and Ogilvie (2006) argued that subjective self-report
+measures could be subject to bias. However, self-reports
+reflect the problem from a patient perspective and are
+therefore highly valued.
+
+Search methods
+We conducted searches in Embase (1997 – July 2008),
+Medline (1950 – July 2008), Cochrane (2000 – July 2008),
+Psychinfo (1987 – July 2008) and Cinahl (1982 – July 2008)
+for studies published in English, German, French or Dutch.
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+1357
+
+G. de Niet et al.
+
+Keywords, titles and abstracts were searched. The search
+terms ‘sleep’ or ‘insomnia’ in combination with ‘music’ or
+‘music therapy’ were used. After the searches were completed, reference lists from identified studies were examined
+to find additional studies.
+Selection criteria were prespecified. We included published
+randomized controlled trials performed in an adult (18–
+60 years) or elderly (60 years or older) population with
+primary sleep complaints or sleep complaints co-morbid with
+a medical condition. Studies involving active use of music,
+such as playing instruments, were excluded. Finally, studies
+of people suffering neurological or severe cognitive disorders
+(such as Parkinson or Alzheimer disease) were excluded.
+Music-assisted relaxation comprises therapeutic relaxation
+improving interventions in which music is the key ingredient.
+We divided these interventions into two groups: (1) those
+offered without additional measures and (2) those offered
+with additional measures. Added measures are, for instance,
+oral or written relaxation instructions. Use of this distinction
+makes it possible to determine the contribution of these
+additional relaxation-improving measures.
+Music in the context of this meta-analysis was considered to
+be recorded music, played by CD/DVD player, mp3 player,
+tape-recorder or video recorder. The music must have been
+intentionally applied for the promotion of sleep quality in a
+passive way, that is, listening to music while resting or relaxing.
+Music-assisted relaxation in the selected studies was
+offered with patient preferred or selected music, or with
+standardized music that had been intentionally composed to
+relax or promote sleep. Many people experience slow rhythm
+music, without a heavy beat, as relaxing. However, the effect
+is strongly dependent on personal preferences.
+
+Initial search: 236 references
+
+Excluded references (N = 210)
+- Obviously not suitable for aim
+
+Potential relevant screened
+(N = 27)
+Excluded papers (N = 17)
+- 10 No trial
+- 5 Did not meet inclusion criteria
+- 2 Unusable outcome
+Papers retained for detailed
+evaluation (N = 10)
+
+Excluded papers (N = 5)
+- 3 Incomparable data
+- 2 Lack of control condition
+Papers included in the
+meta-analyses (N = 5)
+
+Figure 1 Flow diagram of the study selection process.
+
+(Verhagen et al. 1998). This is a 9-item list, assessing
+randomization of allocation, blinding of allocation, group
+comparison, inclusion criteria, blinding (assessor, therapist,
+patient), presentation of estimates and intention-to-treat
+analysis. Two reviewers (GN and BT) assessed the studies
+independently. Only studies with a positive score on 5 or
+more Delphi items (‡55% of the maximum attainable score)
+were included. Consensus was achieved for all data.
+
+Data abstraction
+Search outcome
+After removing duplicates, our initial broad search produced
+a list of 236 references (see Figure 1). After carefully
+reviewing the titles for relevance, this list was reduced to
+27 potentially-relevant papers. Abstracts from all of these
+were reviewed for usefulness. Seventeen were rejected as
+obviously unsuitable (e.g. no trial). Ten remaining studies
+were read in full. Of these ten, five did not meet the inclusion
+criteria. The main reasons for rejection were non-comparability of data and low methodological quality (lack of
+control).
+
+Quality appraisal
+The methodological quality of each selected study was
+assessed using the Delphi list for quality assessment of RCTs
+1358
+
+Pre- and post-test means and standard deviations, demographic data and condition properties were extracted from
+each included study. To evaluate two studies (Kullich et al.
+2003, Harmat et al. 2008), the authors were contacted for
+additional information.
+
+Synthesis
+Review Manager 5.0.12 (The Cochrane Collaboration 2008)
+was used to calculate the effect sizes of the individual studies
+and for calculation of the pooled mean difference. Since
+continuous data from different scales were extracted, the
+standardized mean difference (SMD) was calculated for effect
+size based on sample size (Cohen’s d with Hedges adjustment) and 95% confidence intervals for each study, and for
+the pooled studies using variance analysis. Effect sizes of 0Æ2
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+JAN: REVIEW PAPER
+
+are usually interpreted as small, those of 0Æ5 as moderate and
+from 0Æ8 as large (Cohen 1988).
+Potential statistical heterogeneity between the studies was
+evaluated with a chi-square test. Statistically significant
+heterogeneity was considered present when the P-value was
+less than 5%. Publication bias was addressed by inspection of
+the funnel plot (Begg 1994). A funnel plot is a scatter plot of
+effect sizes against a measure of study size.
+
+Music-assisted relaxation to improve sleep quality
+
+1989); the fifth study used the Richards-Campbell Sleep
+Questionnaire (RCSQ) (Richards 1987). Five of the six
+included conditions led to statistically significant improvement of the ‘total score’ for sleep quality. The music
+condition in the study by Zimmerman et al. (1996)
+approached statistical significance (P = 0Æ06). None of the
+researchers reported adverse effects.
+
+Quality of included studies
+
+Results
+Characteristics of included studies
+The characteristics of the five studies that met the inclusion
+criteria are presented in Table 1. The studies included a total
+of 170 participants in intervention groups and 138 controls.
+Mean participant age was 51 years and mean sample size was
+69. Three studies involved patients in a hospital setting, one
+was performed with community-dwelling elders and one was
+performed with students. With exception of one study
+(Hernandez-Ruiz 2005), all included studies had explicit
+inclusion criteria and/or exclusion criteria (i.e. use of hypnotics, psychiatric condition, sleep apnoea).
+The duration of the intervention varied between 20 and
+45 minutes per session and the follow-up period varied
+between two days to three weeks. With the exception of the
+study by Harmat et al. (2008) and one condition in the study
+by Zimmerman et al. (1996), the music in all included studies
+was offered with an accompanying relaxation technique or
+instruction. Kullich et al. (2003) used standardized music that
+was intentionally composed for sleep promotion for every
+participant. The other researchers used patient-preferred
+music that could be selected from a list. Types of music used
+in the four included studies were traditional folk-music
+(Chinese orchestra), instrumental new age (synthesizer),
+classical and modern instrumental soothing music (harp,
+piano, and orchestra) and vocal soothing music.
+The study by Harmat et al. (2008) comprised two
+treatment conditions, music and an audio book, both
+compared to the same control condition. The audio book
+intervention comprised use of a CD containing 11 hours of
+short stories. Since this condition did not involve music, it
+was not included in the pooled analysis. The study by
+Zimmerman et al. (1996) also had two treatment conditions,
+music and music video, also both compared to the same
+control condition. These two treatment conditions are
+presented separately in Table 2.
+In all included studies the efficacy of the intervention was
+measured with a subjective, self-rating scale. Four studies
+used the Pittsburgh Sleep Quality Index (PSQI) (Buijsse et al.
+
+All included studies suffered from some methodological
+flaws. The Delphi list score was mainly compromised by
+the requirement for blinding. In high quality RCTs, a doubleblind process is used: neither participant nor administer
+should be aware of whether the participant is in the
+intervention or control group. However, the nature of the
+intervention makes blinding of participants virtually impossible; when patients are informed about the goal and
+procedure of the trial, as good ethical practice demands, it
+is impossible to hide the condition to which they are
+allocated. Randomization was blinded in all included studies.
+
+Pooled analysis
+The clinical diversity of the four studies seems rather large
+(mixed age groups, various medical conditions). However,
+there is no evidence or theory making a prominent difference in treatment effect between the various populations
+plausible.
+The outcomes of the two different used instruments, the
+PSQI and the RCSQ, are not directly comparable; a high
+PSQI value means a lower sleep quality, while a high RCSQ
+value indicates the opposite. To allow calculation of the
+effect size and standardized mean difference, RCSQ scores
+were converted by subtracting the real score from the
+maximum score.
+Table 2 shows the means and calculated effect sizes of the
+included studies. Since the studies did not show considerable
+methodological diversity, a pooled analysis was conducted
+(Figure 2). Because we assumed that the included studies
+evaluated a common treatment effect, we chose the fixed
+effect model.
+An overall SMD of À0Æ74 (95% CI: À0Æ96 to À0Æ52) was
+found. The Z test for overall effect was statistically significant
+(Z = 6Æ59, P < 0Æ0001). The chi-square for statistical heterogeneity was not statistically significant (v2 = 7Æ84, d.f. = 5,
+P = 0Æ17). The I-square test represents the between-trial
+difference that cannot be attributed to chance. A value
+greater than 50% may be considered substantial heterogeneity. In our case, the I-square was 36%. To detect publication
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+1359
+
+1360
+
+65
+
+Kullich et al.
+2003
+
+60
+
+28
+
+Hernandez-Ruiz
+2005
+
+96
+
+Zimmerman
+et al. 1996*
+
+Zimmerman
+et al. 1996*
+
+USA
+
+USA
+
+Taiwan
+
+Austria
+
+USA
+
+Hungary
+
+Country
+
+Patient selected
+soothing music,
+daily 30-minute
+sessions in the
+afternoon or early
+evening
+Sedative music video,
+daily 30-minute
+sessions in the
+afternoon
+or early evening
+
+Patient selected
+sedative music,
+daily 45-minute
+sessions at bedtime
+
+Participant selected
+music, daily
+20-minute sessions
+at bedtime
+Standardized music,
+at least once
+a day, no specified
+time
+
+Standardized
+classical music,
+daily 45 minutes at
+bedtime
+
+Treatment
+
+2 days
+
+2 days
+
+Scheduled
+rest
+
+Video with
+relaxing
+scenes
+
+Hospital
+(postoperative
+coronary artery
+bypass
+graft patients)
+
+Hospital
+(postoperative
+coronary artery
+bypass graft
+patients)
+
+Community
+(elderly)
+
+3 weeks
+
+Scheduled
+rest
+
+Care as
+usual/no
+intervention
+
+None
+
+Relaxation
+instructions
+
+Care as
+usual
+
+Booklet with
+relaxation text
+
+Shelter (abused
+women)
+
+Stationary
+rehabilitation
+(low back pain
+patients)
+
+5 days
+
+Silence
+
+Progressive
+muscle
+relaxation
+
+University
+(students with
+sleep
+complaints)
+
+Dwelling and
+population
+
+3 weeks
+
+3 weeks
+
+No intervention
+
+None
+
+Intervention
+duration
+
+Control
+condition
+
+Additional
+relaxation
+measure
+
+*This study comprised two treatment conditions: music and music video. The two treatment conditions are presented separately.
+ 
+Richards-Campbell Sleep Questionnaire (Richards 1987).
+à
+Pittsburgh Sleep Quality Index (Buijsse et al. 1989).
+
+96
+
+Lai & Good
+2003
+
+94
+
+Harmat et al.
+2008
+
+Study
+
+Total
+(n)
+
+Table 1 Characteristics of included studies
+
+Result
+
+PSQIà
+
+RCSQ 
+
+RCSQ 
+
+PSQIà
+
+Statistically significant
+better sleep quality
+ratings
+
+Statistically significant
+improvement of total
+sleep quality score and
+four of seven PSQI
+components
+Statistically significant
+improvement of total
+sleep quality score and
+five of seven PSQI
+components
+Almost statistically
+significant improvement
+of sleep quality
+
+PSQIà
+
+PSQIà
+
+Statistically significant
+improvement of total
+sleep quality score and
+six of seven PSQI
+components
+Statistically significant
+effect on sleep quality
+
+Measure
+
+5
+
+5
+
+6
+
+5
+
+5
+
+5
+
+Delphi
+list score
+
+G. de Niet et al.
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+JAN: REVIEW PAPER
+
+Music-assisted relaxation to improve sleep quality
+
+Table 2 Effect of music interventions on sleep quality
+Post-test
+measure,
+control
+group
+
+Study
+
+Post-test
+measure,
+treatment
+group
+
+Control
+(n)
+
+Music-assisted relaxation without added relaxation measure
+Harmat et al. 2008
+5Æ90 (±2Æ19)
+29
+Zimmerman et al. 1996*
+4Æ37 (±2Æ43)
+32à
+Subtotal
+61
+Music-assisted relaxation with added relaxation measure
+Hernandez-Ruiz 2005
+8Æ29 (±4Æ10)
+14
+Kullich et al. 2003
+8Æ13 (±4Æ02)
+33
+Lai & Good 2003
+10Æ07 (±2Æ75)
+30
+Zimmerman et al. 1996 
+4Æ37 (±2Æ43)
+32à
+Subtotal
+109
+Total
+138à
+
+Treatment
+(n)
+
+3Æ27 (±1Æ80)
+3Æ20 (±2Æ45)
+
+7Æ00
+5Æ81
+7Æ13
+2Æ80
+
+30
+32
+62
+
+(±4Æ56)
+(±3Æ90)
+(±3Æ19)
+(±2Æ02)
+
+14
+32
+30
+32
+108
+170
+
+Standardized mean
+difference (95% CI)
+
+À1Æ31 (À1Æ85, À0Æ76)
+À0Æ47 (À0Æ97, 0Æ02)
+
+À0Æ29
+À0Æ58
+À0Æ97
+À0Æ69
+
+(À1Æ03,
+(À1Æ08,
+(À1Æ51,
+(À1Æ20,
+
+0Æ46)
+À0Æ08)
+À0Æ44)
+À0Æ19)
+
+*Music condition. The data was converted (see statistical analysis).
+ 
+Music video condition. The data was converted (see statistical analysis).
+à
+The two treatment conditions of the study Zimmerman et al. (1996) used the same control group.
+
+Study or Subgroup
+
+Weight
+
+Std. Mean Difference
+IV, Fixed, 95% Cl
+
+1.1.2 MAR with added relaxation measures
+16·8%
+Lai and Good 2003
+19·0%
+Zimmerman 1996 - m. video
+19·6%
+Kullich 2003
+8·7%
+Hernandez 2005
+64·1%
+Subtotal (95% Cl)
+
+Std. Mean Difference
+IV, Fixed, 95% Cl
+
+–0·97 [–1·51, –0·44]
+–0·69 [–1·20, –0·19]
+–0·58[–1·08, –0·08]
+–0·29 [–1·03, 0·46]
+–0·68 [–0·95, –0·40]
+
+2
+2
+Heterogeneity: Chi = 2·37, df = 3 (P = 0·50); l = 0%
+Test for overall effect: Z = 4·83 (P < 0·00001)
+
+1.1.3 MAR without added relaxation measures
+Harmat 2008
+Zimmerman 1996 - music
+Subtotal (95%)
+
+16·3%
+19·6%
+35·9%
+
+–1·31 [–1·85, –0·76]
+–0·47 [–0·97, 0·02]
+–0·85 [ –1·22, –0·49]
+
+2
+2
+Heterogeneity: Chi = 4·91, df = 1 (P = 0·03); l = 80%
+Test for overall effect: Z = 4·55 (P < 0·00001)
+
+Total (95% Cl)
+
+100·0%
+
+–0·74 [–0·96, –0·52]
+
+2
+2
+Heterogeneity: Chi = 7·84, df = 5 (P = 0·17); l =36%
+Test for overall effect: Z = 6·59 (P < 0·00001)
+Test for subgroup differences: Chi2 = 0·56, df = 1 (P = 0·45), l 2 = 0%
+
+–1
+0
+1
+2
+–2
+Favours experimental Favours control
+
+Note: MAR = Music-assisted relaxation
+
+Figure 2 Forest plot.
+bias, the funnel plot was inspected and found to be roughly
+symmetrical.
+To determine the possible contribution of the accompanying relaxation measures, a subgroup analysis was performed.
+The first group – MAR without added relaxation measures –
+included two conditions in which music was the sole
+component. The second group comprised four conditions in
+
+which music was accompanied by an additional relaxation
+measure. For the first group we found a SMD of À0Æ85 (95%
+CI: À1Æ22 to À0Æ49), and for the second group a SMD of
+À0Æ68 (95% CI: À0Æ95 to À0Æ40) was found. The test for
+subgroup differences was not statistically significant
+(v2 = 0Æ56, d.f. = 1, P = 0Æ45). However, this outcome must
+be interpreted with some caution because the statistical
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+1361
+
+G. de Niet et al.
+
+What is already known about this topic
+•
+•
+
+Music is one of the most-used self-help strategies to
+promote sleep.
+Clinical studies show that music can influence human
+emotions and treatment outcomes in a positive way.
+
+What this paper adds
+•
+•
+
+Music-assisted relaxation has a moderate effect on the
+sleep quality of patients with sleep complaints.
+Music-assisted relaxation offers statistically significant
+benefits for sleep quality without side effects in patients
+with various conditions.
+
+Implications for practice and/or policy
+•
+
+•
+
+Music-assisted relaxation can be used without intensive investment in training and materials and is therefore cheap and easily available.
+Since no adverse effects are reported, nurses can use
+these findings to promote music-assisted relaxation to
+improve sleep quality.
+
+heterogeneity for the first group was statistically significant
+(v2 = 4Æ91, d.f. = 1, P = 0Æ03).
+We explored the influence of follow-up length on the effect
+size by performing a regression analysis with effect size as the
+dependent variable and follow-up length as the independent
+variable. The result was not statistically significant (F = 3Æ13,
+d.f. = 1, P = 0Æ15).
+
+Discussion
+
+small. Inspection of the funnel plot showed rough symmetry.
+However, this is only a rough indication of the absence of
+publication bias, and as only six conditions were included,
+this is not a very reliable test.
+The clinical diversity of the included studies was large. The
+question might arise whether pooling the data was appropriate. However, the findings are very consistent. This could
+mean that the effect of the intervention is independent of the
+patient’s condition and thus that the generalizability of the
+findings is potentially large.
+Regrettably, none of the studies we included gave followup data to evaluate long-term effectiveness. However, followup length might be an important factor. At first glance our
+data suggest that studies with a short implementation resulted
+in lower effect sizes than those with longer implementation
+periods. The studies by Kullich et al. (2003), Lai and Good
+(2003) and Harmat et al. (2008) showed a cumulative dose
+effect and reached no ‘plateau’ after three weeks. However, a
+regression analysis revealed that follow-up length was not a
+statistically significant predictor of effect size.
+To evaluate the clinical relevance, we compared this result
+with the results of two other meta-analyses. Like our metaanalysis, they both used randomized controlled trials and
+sleep quality as outcome measures. However, both included
+studies that enrolled participants with a diagnosis of primary
+insomnia. The first, by Nowell et al. (1997), evaluated the
+efficacy of benzodiazepines and zolpidem in adult patients
+(18–65 years). Based on five studies, they found a standardized mean difference of 0Æ62 (95% CI: 0Æ45–0Æ79) for sleep
+quality. The second, by Irwin et al. (2006), included a metaanalysis to evaluate the efficacy of behavioural interventions
+for insomnia among middle aged and older adults. For the
+outcome sleep quality, seven studies were included. A
+standardized mean difference of 0Æ79 (95% CI: 0Æ46–1Æ1)
+was found.
+
+Weaknesses and strengths
+The included studies all suffered from some methodological
+weaknesses. The most important was the lack of doubleblinding. However, as stated previously, the nature of this
+intervention makes blinding virtually impossible. Another
+limitation of the included studies was the lack of a good
+definition of the sleep problem. As poor perceived sleep
+quality can have different causes (for instance physical,
+neurological, psychological or hormonal) and some sleep
+problems are unlikely to be influenced by music-assisted
+relaxation (i.e. restless legs of sleep apnoea).
+The main limitation of this review was a general limitation
+of all reviews: it is liable to publication bias. The number of
+included studies and the sample sizes in these studies were
+1362
+
+Conclusion
+The results of this review, based on five relatively small
+studies, show that music-assisted relaxation is an effective aid
+for improving sleep quality in patients with various conditions. It also gave an indication that the contribution of
+added relaxation-improving measures such as oral or written
+instructions to the improvement of sleep quality is limited.
+Since the amount of included studies was small, this is not a
+conclusive statement.
+Music is already one of the most commonly-used self-help
+strategies to promote sleep. We found scientific support for
+the effectiveness of the systematic use of music-assisted
+relaxation to promote sleep quality. Since no adverse effects
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+JAN: REVIEW PAPER
+
+are reported, nurses can use these findings in their practice to
+promote music-assisted relaxation. It is a safe and cheap
+intervention which may be used to treat sleep problems in
+various populations. The use of MAR is quick and easy to
+learn, and it might also be an effective element in a multifaceted intervention combining cognitive-behavioural and/or
+educational elements. However, this requires further exploration.
+Determining the most effective form (duration of exposure,
+timing of exposure) of music intervention and type for
+different populations (e.g. adolescents, elders) are interesting
+topics for future study. Since objective and subjective
+outcome measures reflect different dimensions of sleep,
+researchers should preferably assess both. Strict inclusion
+criteria based on a good definition of the sleep problem is
+highly recommended for future research.
+
+Funding
+This study is part of a project that is supported by a grant
+(100-002-023) from ZonMW, the Netherlands Organization
+for Health Research and Development (non-profit).
+
+Conflict of interest
+No conflict of interest has been declared by the authors.
+
+Author contributions
+GN, BT & GH were responsible for the study conception and
+design. GN performed the data collection. GN & BT
+performed the data analysis. GN & BT were responsible
+for the drafting of the manuscript. BL & GH made critical
+revisions to the paper for important intellectual content.
+
+References
+Almerud S. & Peterson K. (2003) Music therapy – a complementary
+treatment for mechanically ventilated intensive care patients.
+Journal of Advanced Nursing 19, 21–30.
+Begg C.B. (1994) Publication bias. In The Handbook of Research
+Synthesis (Cooper H. & Hedges L.V., eds), Russell Sage Foundation, New York, pp. 399–409.
+Buijsse D.J., Reynolds C.F. III, Monk T.H., Berman S.R. & Kupfer
+D.J. (1989) The Pittsburgh Sleep Quality Index: a new instrument
+for psychiatric practice and research. Psychiatry Research 28, 193–
+213.
+Chan M.F., Wong O.C., Chan H.L., Fong M.C., Lai S.Y., Lo C.W.,
+Ho S.M., Ng S.Y. & Leung S.K. (2006) Effects of music on patients
+undergoing a C-clamp procedure after percutaneous coronary
+interventions. Journal of Advanced Nursing 53, 669–679.
+
+Music-assisted relaxation to improve sleep quality
+Cohen J. (1988) Statistical Power Analysis for the Behavioural Sciences, 2nd edn. Lawrence Earlbaum Associates, Hillsdale, NJ.
+Evans D. (2002) The effectiveness of music as an intervention for
+hospital patients: a systematic review. Journal of Advanced Nursing 37, 8–18.
+Gagner-Tjellesen D., Yurkovich E.E. & Gragert M. (2001) Use of
+music therapy and other ITNIs in acute care. Journal of Psychosocial Nursing and Mental Health Services 39, 26–37.
+Harmat L., Taka
+´ cs J. & Bo
+´ disz R. (2008) Music improves sleep
+quality in students. Journal of Advanced Nursing 62, 327–335.
+Hernandez-Ruiz E. (2005) Effect of music therapy on the anxiety
+levels and sleep patterns of abused women in shelters. Journal of
+Music Therapy 42, 140–145.
+Irwin M.R., Cole J.C. & Nicassio P.M. (2006) Comparative metaanalysis of behavioral interventions for insomnia and their efficacy
+in middle-aged adults and in older adults 55+ years of age. Health
+Psychology 25, 3–14.
+Johnson J.E. (2003) The use of music to promote sleep in older
+women. Journal of Community Health Nursing 20, 27–35.
+Kullich W., Bernatzky G., Hesse H.-P., Wendtner F., Likar R. &
+Klein G. (2003) Music therapy – impact on pain, sleep, and quality
+of life in low back pain. Wiener Medizinische Wochenschrift 153,
+217–221.
+Lai H.L. & Good M. (2003) Music improves sleep quality in older
+adults. Journal of Advanced Nursing 49, 234–244.
+Lazic S.E. & Ogilvie R.D. (2006) Lack of efficacy of music to improve sleep: a polysomnographic and quantitative EEG analysis.
+International Journal of Psychophysiology 63, 232–239.
+Montgomery P. & Dennis J. (2002a) Bright light therapy for sleep
+problems in adults aged 60+. Cochrane Database of Systematic
+Reviews 2, CD003403.
+Montgomery P. & Dennis J. (2002b) Physical exercise for sleep
+problems in adults aged 60+. Cochrane Database of Systematic
+Reviews 4, CD003404.
+Morin C.M., LeBlanc M., Daley M., Gregoire J.P. & Me
+´ rette C.
+(2006a) Epidemiology of insomnia: prevalence, self-help treatments, consultations, and determinates of self-seeking behaviours.
+Sleep Medicine 7, 123–130.
+Morin C.M., Bootzin R.R., Buijsse D.J., Edinger J.D., Espie C. &
+Lichstein K.L. (2006b) Psychological and behavioural treatment of
+insomnia: update of the recent evidence (1998–2004). Sleep 2911,
+1398–1413.
+Mornhinweg G.C. & Voigner R.R. (1995) Music for sleep disturbances in the elderly. Journal of Holistic Nursing 13, 248–
+254.
+Nowell P.D., Mazumdar S., Buysse D.J., Dew M.A., Reynolds C.F.
+& Kupfer D.J. (1997) Benzodiazepines and zolpidem for chronic
+insomnia: a meta-analysis of treatment efficacy. JAMA 278, 2170–
+2177.
+The Cochrane Collaboration Review Manager (RevMan) (2008)
+[Computer program] Version 5.0.12. The Nordic Cochrane Centre, The Cochrane Collaboration, Copenhagen.
+Richards K. (1987) Techniques for measurement of sleep in critical
+care. Focus on Critical Care 14, 34–40.
+Urponen H., Vuori I., Hasan J. & Partinen M. (1988) Selfevaluations of factors promoting and disturbing sleep: an
+epidemiological survey in Finland. Social Science & Medicine
+26, 443–450.
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+1363
+
+G. de Niet et al.
+Verhagen A.P., De Vet H.C.W., De Bie R.A., Kessels A.G.H., Boers
+M., Bouter L.M. & Knipschild P.C. (1998) The Delphi list: a criteria list for quality assessment of randomized clinical trials for
+conducting systematic reviews developed by Delphi consensus.
+Journal of Clinical Epidemiology 51, 1235–1241.
+
+Zimmerman L., Nieveen J., Barnason S. & Schmaderere M. (1996)
+The effects of music interventions on postoperative pain and sleep
+in coronary artery bypass graft (CABG) patients. Scholarly Inquiry
+for Nursing Practice 10, 153–170.
+
+The Journal of Advanced Nursing (JAN) is an international, peer-reviewed, scientific journal. JAN contributes to the
+advancement of evidence-based nursing, midwifery and health care by disseminating high quality research and
+scholarship of contemporary relevance and with potential to advance knowledge for practice, education, management
+or policy. JAN publishes research reviews, original research reports and methodological and theoretical papers.
+For further information, please visit the journal web-site: http://www.journalofadvancednursing.com
+
+1364
+
+Ó 2009 The Authors. Journal compilation Ó 2009 Blackwell Publishing Ltd
+
+

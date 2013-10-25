@@ -1,0 +1,367 @@
+<!DOCTYPE html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+    <title></title>
+    <script src="data_imevidence.js"></script>
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="../bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <script src="../jquery-1.7.2.min.js"></script>
+
+    <script src="../bootstrap/js/bootstrap.js"></script>
+    
+    <!-- DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="data_tables/media/css/jquery.dataTables.css">
+ 
+<script type="text/javascript" language="javascript" src="data_tables/media/js/jquery.js"></script>
+		<script type="text/javascript" language="javascript" src="data_tables/media/js/jquery.dataTables.min.js"></script>
+		<script type="text/javascript" charset="utf-8">
+			$(document).ready(function() {
+				$('#newspaper-a').dataTable(
+					{
+    					"bSortClasses": false,
+					"bPaginate": false,
+		//"bLengthChange": false,
+		"bFilter": false,
+		//"bSort": false,
+		"bInfo": false,
+  					}
+					);
+			} );
+		</script>
+                <style type="text/css">
+<!--
+@import url("style.css");
+-->
+</style>
+
+<script>
+    var dataReview = new Array();
+    
+    function trim(stringToTrim) {
+	return stringToTrim.replace(/^\s+|\s+$/g,"");
+    }
+    function createOrHideDiv(this_parent,this_innerHTML)
+    {
+        //alert(this_parent.innerHTML);
+        //alert();
+        //hide all divs first....
+        var allDivDetails=document.getElementsByName("divDetails");
+        for (var i=0; i<allDivDetails.length; i++) {
+            allDivDetails[i].style.display="none";
+        }
+        
+        if(document.getElementById("div"+this_innerHTML)==null)
+            {
+                //create Div
+         this_parent.innerHTML+=
+               '<div name="divDetails" id="div'+this_innerHTML+'" style="display: block">'+
+               //document.getElementById('divDetailsHidden').innerHTML
+               '<br/><b>Author : </b> '+authors[idReview[this_innerHTML]]+'<br/>'+
+                       '<b>Date of Publication : </b> '+datePublications[idReview[this_innerHTML]]+'<br/>'+
+                       '<b>Keywords : </b> '+keywords[idReview[this_innerHTML]]+'<br/>'+
+            '<b>Abstract : </b> '+abstracts[idReview[this_innerHTML]]+'<br/>'+
+                 // abstract content from txt file/js
+              '<br/><a target="_blank" href="../PDF/'+this_innerHTML+'.pdf" class="btn btn-mini btn-info"><i class="icon-book icon-white"></i>  Read Full Text (PDF)  </a>'+
+              '   <a href="CITE/'+this_innerHTML+'.ris" download="'+this_innerHTML+'.ris" class="btn btn-mini btn-info"><i class="icon-edit icon-white"></i>  Export Citation </a><br/>'
+                    +'</div>';
+            }
+            else
+            {
+                //alert("exist");
+                 //Div already exists...
+                 if(document.getElementById("div"+this_innerHTML).style.display=="block")
+                     {
+                         //hide Dive
+                         document.getElementById("div"+this_innerHTML).style.display="none";
+                     }
+                     else
+                         {
+                             //show div
+                             document.getElementById("div"+this_innerHTML).style.display="block";
+                         }
+            }
+    }
+    
+    
+    
+    function GetIndexByValue(arrayName, value) {  
+    var keyName = "";
+    var index = -1;
+    for (var i = 0; i < arrayName.length; i++) { 
+       var obj = arrayName[i]; 
+            for (var key in obj) {          
+                if (obj[key] == value) { 
+                    keyName = key; 
+                    index = i;
+                } 
+            } 
+        }
+        //console.log(index); 
+        return index;
+    } 
+    
+    //get surrounding chars
+    function pullSubstring(searched,text,bordersLenght) {
+    var idx = (text.toLowerCase()).indexOf(searched.toLowerCase());
+    if (idx == -1 )
+        return "";
+    
+    var startFrom = idx-bordersLenght;
+    var endAt = idx + bordersLenght + searched.length;
+
+    if (startFrom < 0)
+        startFrom=0;
+
+    if (endAt > text.length-1)
+        endAt = text.length-1;
+    
+    var realTxt=text.substring(idx,idx+searched.length);
+    return (text.substring(startFrom,endAt)).replace(/*searched*/ realTxt,'<span style="background-color: #FFFF00">'+/*searched*/ realTxt+'</span>');
+
+}
+
+    
+    var obj_txtSearch;
+    function performSearch(val)
+    {
+        obj_txtSearch=val;
+        document.getElementById("deleteicon").style.display="block";
+        //alert(document.getElementById(txtSearch).innerHTML);
+        //var al = $('#typeahead').data('value');
+        if(val==null||val.value==null||val.value==""||trim(val.value)==""){
+            document.getElementById("divSearch").innerHTML="";
+            //show back table
+            document.getElementById("divTable").style.display="block";
+        document.getElementById("divSearch").style.display="none";
+        document.getElementById("deleteicon").style.display="none";
+            return;
+        }
+        //alert(val.value);
+        var txtValue=trim(val.value);
+        document.getElementById("divTable").style.display="none";
+        document.getElementById("divSearch").style.display="block";
+        
+         //false
+        
+        //populate dataReview if it is empty
+        for(var indexx=1; indexx < (idReviewRev.length);indexx++) {
+            
+  //document.write( index + " : " + idReview[index] + "<br />");
+  //index == idReview's key
+  //alert(indexx);
+        if(dataReview[idReviewRev[indexx]]==null||trim(dataReview[idReviewRev[indexx]])=="")
+            {
+                
+                // fill data from AJAX request
+                //Call AJAX Request....
+                    $.ajax({
+                    url:'../PDF/'+idReviewRev[indexx]+'.txt',
+                    success: function (data){
+                        //alert(this.url.indexOf('.txt'));
+                       // alert();
+                       if(data==null||trim(data)=="")return;
+                       
+                        var divName=this.url.substr(7,this.url.indexOf('.txt')-7);
+                        //parse ur data
+                        //you can split into lines using data.split('\n') 
+                            //use regex functions to effectivley parse
+                            dataReview[divName]=//data;
+                                    new String(data);
+                            //document.write(dataReview[index]);
+                            //
+                            //alert(indexx+">>>>>"+idReviewRev[indexx]+">>>>>"+dataReview[idReviewRev[indexx]])
+                            
+                            document.getElementById("divDetailsHidden").innerHTML+=
+                                    '<div id="divSrc'+divName+'">'+data+'</div>';
+                            
+                            }
+                            });
+            }
+        }
+        
+        //really perform searching , search term is txtValue
+        // -1 not found text
+        document.getElementById("divSearch").innerHTML="";
+        var notFound=true;
+        for(var index in idReview) {
+        
+        //dataReview[index]
+        //alert(index+">>>"+dataReview[index]);
+        //alert(index);
+        
+        if(dataReview[index]==null||trim(dataReview[index])=="")continue;
+            //var n=dataReview[index].search(txtValue);
+            //if(n!=-1)
+            //{
+            //notFound=false;
+            
+            
+            
+            var outputTxt=//getSurroundingText(dataReview[index],n);
+                pullSubstring(txtValue,dataReview[index],100);
+            if(outputTxt=="")
+            {
+                notFound=false;
+            }
+            else
+            {
+                document.getElementById("divSearch").innerHTML+=
+                            "<a target='_blank' href='../PDF/"+index+".pdf'>"+index+"</a>"+
+                            "<br/>..."+outputTxt+"..."+
+                            "<br/><br/>";
+            }
+            //}
+        }
+        if(notFound){
+        document.getElementById("divSearch").innerHTML="Found Nothing!!!";
+        }
+        
+        
+    
+    }
+    
+    
+</script>
+ <style>
+            span.deleteicon {
+                position: relative;
+            }
+            span.deleteicon span {
+                position: absolute;
+                display: none;
+                top: 3px;
+                right: 0px;
+                width: 16px;
+                height: 16px;
+                background: url('pic/images.jpg');
+                background-size: 90% 90%;
+                background-repeat:no-repeat;
+                    /*
+                    url('http://cdn.sstatic.net/stackoverflow/img/sprites.png?v=4') 0 -690px;
+                    */
+                cursor: pointer;
+            }
+            span.deleteicon input {
+                padding-right: 16px;
+            }
+        </style>
+        <script>
+            $(document).ready(function() {
+                $('#txtSearch').wrap('<span class="deleteicon" />').after($('<span id="deleteicon"></span>').click(function() {
+                    $(this).prev('input').val('').focus();
+                    performSearch(this);
+                }));
+            });
+        </script>
+    </head>
+    <body>
+<br/><br/>
+	<center>
+        <table border="0" cellspacing="100">
+	<tbody><tr>
+	<td>
+            <input class="typeahead" id="txtSearch" onchange="performSearch(this)" onkeyup="performSearch(this)"  type="text" placeholder="Type to search..." style="margin: 0 auto;" data-provide="typeahead" data-items="4" data-source='return fillDataTypeahead()'>
+            <!--class="input-block-level"-->
+        </td>
+	<!-- script src='http://twitter.github.io/typeahead.js/releases/latest/typeahead.js'></script -->
+        <script>
+            function fillDataTypeahead()
+            {
+                return '["Migraine","Music","Homeopathy","Insomnia","Headache"]';
+            }
+            document.getElementById('txtSearch').setAttribute("data-source",fillDataTypeahead());
+            /*
+            $('.typeahead').typeahead({
+                source: fillDataTypeahead()
+            });
+            */
+           /*
+             $('.typeahead').typeahead({
+  //local: return fillDataTypeahead()
+  source: return fillDataTypeahead();
+}).on('typeahead:selected', function(event, selection) {
+
+  // the second argument has the info you want
+  alert(selection.value);
+
+  // clearing the selection requires a typeahead method
+  //$(this).typeahead('setQuery', '');
+});
+          */  
+            
+            /*
+            $('.typeahead').typeahead({
+    updater: function(selection){
+        console.log("You selected: " + selection)
+    }
+})
+*/
+        </script>
+	
+	
+	
+	
+	
+        <td><a onclick="performSearch(obj_txtSearch)" class="btn btn-success"><i class="icon-search icon-white"></i>  Search  </a></td>
+	</tr>
+	</tbody></table></center>
+        <br/>
+        <div id="divTable" style="display: block">
+        <table id="newspaper-a" summary="">
+    <thead>
+    	<tr>
+            <th scope="col">Year</th>
+            <th width="95%" scope="col">Title</th>
+            
+            
+        </tr>
+    </thead>
+    <tbody>
+    	<tr>
+            <td valign="top">2013</td>
+        	<td width="95%">
+                    <a onclick="createOrHideDiv(this.parentNode,this.innerHTML);">Music therapy for insomnia</a>
+                    
+                </td>
+            
+            
+            
+        </tr>
+        <tr>
+            <td valign="top">2013</td>
+        	<td><a onclick="createOrHideDiv(this.parentNode,this.innerHTML);">Homeopathy for treatment of headache disorders</a></td>
+            
+            
+            
+        </tr>
+        <tr>
+        	<td valign="top">2014</td>
+            <td><a onclick="createOrHideDiv(this.parentNode,this.innerHTML);">Essential oil as an antiobesity agent</a></td>
+            
+            
+        </tr>
+        <tr>
+        	<td valign="top">2014</td>
+            <td><a onclick="createOrHideDiv(this.parentNode,this.innerHTML);">Tea tree (Melaleuca alternifolia) oil as treatment for acne vulgaris</a></td>
+            
+            
+        </tr>
+    </tbody>
+</table>
+        </div>
+        <div id="divSearch" style="display: none">
+            <div class='alert alert-info'>Search Results</div> 
+             <table id="tableSearch" class='table'>
+                 <tbody>
+                     
+                 </tbody>
+             </table>
+       </div>
+        <div id="divDetailsHidden" style="display: none">
+              Abstract:<br/>
+                 
+              Read Full text (PDF):<br/>
+              Export Citation:<br/>
+       </div>
+        
+    </body>
+</html>

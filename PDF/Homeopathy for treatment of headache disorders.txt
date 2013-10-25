@@ -1,0 +1,423 @@
+Vol. 18 No. 5 November 1999
+
+Journal of Pain and Symptom Management
+
+353
+
+Original Article
+
+Homeopathic Prophylaxis of Headaches and
+Migraine? A Systematic Review
+Edzard Ernst, MD, PhD, FRCP (Edin)
+Department of Complementary Medicine, School of Postgraduate Medicine and Health Sciences,
+University of Exeter, Exeter, United Kingdom
+
+Abstract
+Homeopathy is often advocated as a prophylaxis of migraine and headaches. The aim of this
+systematic review was to evaluate the clinical trials, testing the efficacy of homeopathy for these
+indications. Independent computerized literature searches were carried out in 4 databases.
+Only randomized, placebo-controlled trials were included. Four such studies were found. Their
+methodological quality was variable but, on average, satisfactory. One study suggested that
+homeopathic remedies were effective. The other, methodologically stronger trials did not support
+this notion. It is concluded that the trial data available to date do not suggest that
+homeopathy is effective in the prophylaxis of migraine or headache beyond a placebo effect.
+J Pain Symptom Manage 1999;18:353–357. © U.S. Cancer Pain Relief Committee, 1999.
+Key Words
+Homeopathy, complementary medicine, clinical trials, systematic review, efficacy
+
+Introduction
+For about 200 years, homeopathy has remained a much-debated subject. It is based essentially on two assumptions. First, if a given
+remedy causes a symptom in a healthy volunteer, the remedy can be used to treat the symptom in patients who suffer from it (the “like
+cures like” principle). Second, if a remedy is
+diluted and succussed (shaken), a process
+termed potentiation by homeopaths, it will not
+become less but more potent (law of infinitesimal dilutions). Thus even nonmaterial solutions are thought to be clinically effective. Both
+
+Address reprint requests to: Dr. E. Ernst, Department of
+Complementary Medicine, School of Postgraduate
+Medicine and Health Sciences, University of Exeter,
+25 Victoria Park Road, Exeter EX2 4NT, UK.
+Accepted for publication: January 19, 1999.
+© U.S. Cancer Pain Relief Committee, 1999
+Published by Elsevier, New York, New York
+
+principles create problems for rational thinkers but the latter flies in the face of science,
+which, of course, insists that where there is no
+molecule there can be no action.1
+Even though homeopaths do not adopt disease entities equivalent to those in conventional medicine (i.e., they claim to treat the individual, not the disease), most texts suggest
+that headaches will respond favorably to homeopathic treatments and recommend its use
+for that indication.2,3 Likewise, there is no
+shortage of anecdotal reports implying that homeopathy alleviates such conditions.4 Throughout the history of homeopathy, skeptics have
+attributed such outcomes to the placebo effect.1 In order to define whether or not homeopathic remedies are effective beyond a placebo response, this systematic review is aimed
+at evaluating the data from randomized, placebo-controlled, double-blind trials. The particular research question addressed here can
+be formulated as follows: are homeopathic
+0885-3924/99/$–see front matter
+PII S0885-3924(99)00095-0
+
+354
+
+remedies more effective than placebos in the
+prevention of migraine or headaches?
+
+Methods
+Computerized literature searches were performed to identify all randomized, placebocontrolled double-blind clinical trials of homeopathic treatments for migraine or headache.
+Databases included: Medline, Embase, CISCOM,
+and the Cochrane Library (all from their inception to August 1998). The references of two
+systematic reviews5,6 were also considered. The
+author had been involved in an extensive literature search and meta-analysis commissioned
+by the European Union.7 This exercise included extensive hand-searching of 28 specialized homeopathic journals and resulted in the
+identification of more than 400 publications.
+This material was also screened for the purpose of this review. Furthermore, our own extensive files as well as review articles and books
+on homeopathy were searched for further relevant publications. The bibliographies of the
+publications thus retrieved were searched for
+further trials. There were no restrictions regarding the language of publication.
+Initially a broad search for homeopathic trials was conducted. As a next step, it was focused exclusively on prevention trials. Only
+randomized, placebo-controlled, double-blind
+clinical trials were included in this systematic
+review. Trials of one homeopathic potency
+against another, or trials of homeopathy versus
+other types of treatment were excluded.
+All studies were read in full. Data were extracted in a standardized, predefined fashion
+(Table 1). Methodological quality of the included trials was assessed using the score according to Jadad.8 The results of each trial
+were taken as published and no reevaluation
+was attempted.
+
+Results
+Four studies were found which met the
+above inclusion/exclusion criteria.9–12 No trials
+for the treatment of acute headache or migraine were located. Data extraction could be
+performed from all randomized controlled trials (RCTs). The key data of all included studies
+are summarized in Table 1.
+
+Ernst
+
+Vol. 18 No. 5 November 1999
+
+Brigo and Serpelloni9 randomized 60 patients with migraine into groups A and B. The
+authors do not describe their exact diagnostic
+criteria of migraine. All patients received single doses of oral treatments at 2-week intervals.
+In group A, this was a choice of 6 homeopathic
+remedies which were individually prescribed
+according to the “like cures like” principle at
+the (nonmaterial) 30C potency. The remedies
+were: Belladonna, Cyclamen, Gelsemium, Ignatia, Lachesis, Natrium, Muriaticum, Silicea,
+and Sulfur. Patients who did not correspond to
+the “drug pictures” of these remedies were excluded from the study. Group B was given placebos. The therapeutic success was evaluated at
+weeks 8 and 16 through patient diaries. The results are significantly in favor of homeopathy
+for all outcome variables: frequency, severity,
+duration of pain, and concomitant analgesic
+consumption. The frequency of migraine attacks fell from 9.9 to 7.9 per month in the placebo and from 10.0 to 1.8 in the homeopathic
+group. The pain intensity, measured by visual
+analogue scale, fell from 8.4 to 7.8 and 9.1 to
+2.9 respectively. The main weakness of this
+study is the lack of an accurate patient definition. Furthermore, it is possible that a degree
+of “de-blinding” inadvertently took place.
+Straumsheim et al.10 randomized 73 patients
+into groups A and B. Sixty-eight patients concluded the study. After a 1 month run-in period, group A was prescribed individualized
+remedies (choice of 60 remedies in 3 different
+potencies), whereas group B received indistinguishable placebos for 4 months. Clinical outcome was evaluated through patient diaries
+and neurologist assessment. There were no significant intergroup differences in terms of frequency, intensity, duration of attacks, or analgesic consumption. However, attack frequency
+was significantly lower in the homeopathic
+group when assessed by the neurologist (P ϭ
+0.04). The weakness of this latter result is that
+the physicians’ rating of attack frequency may
+be unreliable. Furthermore, this difference
+barely reached the level of statistical significance.
+Whitmarsh and colleagues11 randomized 63
+patients with migraine according to International Headache Society (IHS) criteria in
+group A or B. Both groups received placebo
+for a 1-month run-in period. Thereafter, group
+A was individually prescribed one of 11 reme-
+
+63 (4)
+
+63 (3)
+
+98 (5)
+
+Straumsheim10 (1997)
+
+Whitmarsh11 (1997)
+
+Walach12 (1997)
+
+n.m. ϭ not mentioned.
+
+60 (2)
+
+Sample size
+(Jadad score)
+
+Brigo9 (1991)
+
+Reference
+
+Migraine or
+tension
+headache
+
+Migraine
+according to
+IHS criteria
+
+Migraine
+according to
+IHS criteria
+
+“Migraine”
+not further
+defined
+
+Description of
+patients
+
+Choice of 11 remedies
+(all 30C) prescribed
+individually, 2 tablets
+twice weekly for
+3 months
+Free choice of
+individualized
+remedies for
+12 weeks
+
+Four single doses of 30C
+potencies of a choice
+of 6 remedies given
+orally in 2-week
+intervals
+Choice of 60 remedies
+in D30, D200, and 1M
+potencies prescribed
+individually at monthly
+consultations with
+homeopathic
+
+Homeopathic
+treatments
+
+6 withdrawals
+
+3
+
+Of 73 pts 68
+completed
+the study
+
+n.m.
+
+Dropouts
+
+12 weeks
+
+4 months
+
+5 months
+
+16 weeks
+
+Follow-up
+
+Table 1
+Homeopathic Trials in Migraine and Headaches
+
+Primary outcome
+variables ϭ frequency,
+severity, and duration
+of attacks
+
+Primary outcome
+variable ϭ attack
+frequency
+(patient diary)
+
+As above plus
+neurologist’s
+assessment
+
+Frequency, intensity,
+duration of attacks,
+and use of analgesic
+drugs (patient diary)
+
+Outcome
+variables
+
+Improvements in both
+groups, no intergroup
+difference
+
+No intergroup differences
+in terms of frequency,
+intensity, or duration of
+attacks nor analgesic
+consumption. Only sign
+(P ϭ 0.05) of difference ϭ
+neurologist’s assessment
+of attack frequency
+Homeopath ϭ Ϫ19%
+placebo ϭ Ϫ16%
+no sign of intergroup
+difference
+
+Compared to placebo,
+significant improvement
+in all variables
+
+Results
+
+Vol. 18 No. 5 November 1999
+Homeopathy for Headaches and Migraine
+355
+
+356
+
+dies: Belladonna, Bryonia, Iris Vesiculor, Kalium Bichromatium, Lachesis, Natrium Muriaticum, Nux Vomica, Sanguinaria, Sepia, Silicea,
+or Sulphur—all in 30C potencies. Patients
+were instructed to take two tablets twice weekly
+for 3 months. Group B received indistinguishable placebos. Attack frequency had been defined as the primary endpoint. It showed a significant difference between groups already at
+entry (P ϭ 0.0013). During the treatment
+phase, frequency declined in both groups without a significant intergroup difference. Secondary outcome variables (e.g., analgesic consumption) also showed no significant difference
+between groups. The interpretation of this trial
+is hampered by the baseline differences of the
+primary endpoint. This could have been
+avoided by stratification.
+Walach and colleagues12 randomized 98 patients in group A or B. Seventy-six percent of
+these patients suffered from migraine and 51%
+had tension-type headaches. After a 6-week
+run-in phase, group A received individualized
+homeopathic remedies (free choice of type
+and potency) while group B received indistinguishable placebos. Treatment lasted for 12
+weeks. Headache frequency, intensity, and duration were the predefined outcome variables.
+Many patients (of both groups) improved but
+according to the intention-to-treat analysis,
+there were no significant intergroup differences in any of the variables. This study profits
+from thoughtful design and exemplary statistical planning and evaluation.
+
+Discussion
+The overall result of this systematic review
+suggests that homeopathic remedies are not
+superior to placebo in preventing migraine or
+headache. The paucity of trials is disappointing
+and limits the validity of this statement. The average methodological quality of the studies is
+satisfactory; in particular, the study by Walach12
+was excellent. The latter author went to extreme pains in attempting to exclude bias. For
+instance, a committee of homeopaths had to
+reach a consensus as to the ideal homeopathic
+prescription in each case and a notary surveyed
+randomization and blinding in this trial. By
+contrast, the Italian study9 is methodologically
+weak. This is perhaps best exemplified by the
+authors’ statement that the objective of their
+
+Ernst
+
+Vol. 18 No. 5 November 1999
+
+trial was to “demonstrate” (rather than test)
+the efficacy of homeopathy. Failure to perform
+proper power calculations is a further flaw
+which this trial9 shares with all the others, except for the best methodological study.12 This
+could have resulted in a type II error.
+Thus, the significance of the two positive
+trials9,11 is debatable. These studies were clearly
+the weakest from a methodological point of
+view. Their flaws range from poor patient definition and a lack of adequate statistical
+evaluation9 to small sample size and soft primary endpoints.10 In view of these weaknesses,
+it is important to point out that the most rigorous study12 does not support the hypothesis of
+a specific effect caused by the administered homeopathic remedies.
+In their meta-analysis of all randomized or
+placebo-controlled clinical trials of homeopathy, Linde et al. concluded “the results . . . are
+not compatible with the hypothesis that the
+clinical effects of homeopathy are completely
+due to placebo.”6 However, the authors were
+unable to identify a single indication for which
+homeopathy was convincingly effective and reanalysis of their data, using stricter entry criteria and only studies with nonmaterial remedies, concluded that “homeopathic remedies
+are associated with the same clinical effects as
+placebo.”13
+The pooling of data from clinical trials on
+entirely different disease entities is problematic and Linde et al have been criticized for
+this approach.14 It may be more appropriate
+therefore to focus on specific conditions when
+assessing the efficacy of homeopathy. The two
+conditions that have been submitted to most
+clinical trials are postoperative ileus and delayed-onset muscle soreness. We have assessed
+these data by systematic review15 and metaanalysis.16 In the latter case, the overall result
+was positive, albeit burdened with several caveats. In the former case it was negative. Finally,
+we have conducted systematic reviews of all
+comparative homeopathic trials (i.e., studies
+where homeopathic remedies were compared
+to orthodox treatments)17 and of all trials of
+homeopathic Arnica.18 In both cases, the results were not in favor of homeopathy.
+The disappointing results of the present systematic review could mean that either homeopathy was used inadequately (which would inevitably lead to a negative finding, even with an
+
+Vol. 18 No. 5 November 1999
+
+Homeopathy for Headaches and Migraine
+
+effective drug) or that homeopathic remedies
+prescribed in these trials are not more effective
+than placebos. One could argue that long
+treatment periods are required for the homeopathic therapy of long-standing problems like
+migraine/headaches to respond. Thus, treatment of 12 months might indeed have been
+suboptimal in the otherwise most conclusive
+trial.12 However, the only study which incorporated a substantially longer treatment phase
+(i.e., 5 months) also produced a negative result. On balance, therefore, the results of this
+systematic review favor the second of the above
+two interpretations.
+In conclusion, this systematic review has not
+produced compelling evidence to suggest that
+individualized homeopathic treatment is more
+effective than placebo in the prevention of
+migraine or headache attacks. However, due to
+several caveats (e.g., paucity of RCTs) it seems
+premature to make final judgment on this
+matter.
+
+References
+1. Ernst E. Homoeopathy: past, present, future. Br
+J Clin Pharmacol 1997;44:435–437.
+2. Gemmell D. Everyday homoeopathy. Beaconsfield, UK: Beaconsfield Pub., 1987.
+3. Cooper D. Migraine: a homoeopathic approach.
+Br Homoeopathic J 1984;73:1–10.
+4. Khalsa D. An efficacious homoeopathic treatment for acute migraine headache. Biomed Therapy 1998;15:223–224.
+5. Kleijnen J, Knipschild P, ter Riet G. Clinical trials of homeopathy. Br Med J 1991;302:316–332.
+6. Linde K, Clausius N, Ramirez G, Melchart D, Eitel F, Hedges LV, Jonas W. Are the clinical effects of
+
+357
+
+homeopathy placebo effects? A meta-analysis of placebo-controlled trials. Lancet 1997;350:834–843.
+7. Boissel JP, Ernst E, Fisher P, Fülgraff G, Garatini
+S, deLange de Klerk E. Overview of data from homeopathic medicine trials. European Union Report,
+1996.
+8. Jadad AR, Moore RA, Carrol D, Jenkinson C,
+Reynolds DJM, Gavaghan DJ, McQuay HJ. Assessing
+the quality of reports of randomized clinical trials: is
+blinding necessary? Contr Clin Trials 1996;17:1–12.
+9. Brigo B, Serpelloni G. Homoeopathic treatment
+of migraines: a randomized double-blind controlled
+study of sixty cases (homoeopathic remedy versus
+placebo). Berlin J Res Homoeopathy 1991;1:98–106.
+10. Straumsheim PA, Brochgrevink C, Mowinckel P,
+Kierulf H, Hafslund Ø. Homoeopathic treatment of
+migraine: a double-blind placebo controlled trial of
+68 patients. Dynamis 1997;2:18–22.
+11. Whitmarsh TE, Coleston-Shields DM, Steiner
+TJ. Double-blind randomized placebo-controlled
+study of homoeopathic prophylaxis of migraine.
+Cephalalgia 1997;17:600–604.
+12. Walach H, et al. Classical homeopathic treatment of chronic headaches. Cephalalgia 1997;17:
+119–126.
+13. Ernst, E. Are highly dilute homoeopathic remedies placebos? Perfusion 1998;11:291–292.
+14. Vandenbrouk JP. Homoeopathy trials, going nowhere. Lancet 1997;350:824.
+15. Ernst E, Barnes J. Are homoeopathic remedies
+effective for delayed-onset muscle soreness? A systematic review of placebo-controlled trials. Perfusion 1998;11:4–8.
+16. Barnes J, Resch KL, Ernst E. Homoeopathy for
+post-operative ileus: a meta-analysis. J Clin Gastroent
+1997;25:628–633.
+17. Ernst E. Comparative trials of classical homoeopathy: a systematic review. Perfusion 1999;12:13–15.
+18. Ernst E, Pittler MH. The efficacy of homoeopathic
+Arnica: a systematic review of placebo-controlled
+clinical trials. Arch Surgery 1998;133:1187–1190.
+
+
